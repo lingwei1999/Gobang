@@ -1,0 +1,1 @@
+先執行Server再執行Game
